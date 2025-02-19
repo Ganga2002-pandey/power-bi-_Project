@@ -6,7 +6,7 @@ This repository contains two interactive Power BI dashboards:
 These reports help financial institutions understand customer behavior, optimize marketing strategies, and detect suspicious activities.  
 ## 📸 Dashboard Previews  
 ### 📊 Credit Card Customer Report  
-![Customer Report](path/to/customer_report.png)  
+![Customer Report](https://github.com/ganga-pandey/power-bi-_Project/blob/e5522dc29dae33b58696182af0db1dc3121f5e29/Screenshot%20(29).png)  
 
 ### 📊 Credit Card Transaction Report  
 ![Transaction Report](path/to/transaction_report.png)  
