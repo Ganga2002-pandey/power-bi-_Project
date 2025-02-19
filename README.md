@@ -9,5 +9,5 @@ These reports help financial institutions understand customer behavior, optimize
 ![Customer Report](https://github.com/ganga-pandey/power-bi-_Project/blob/e5522dc29dae33b58696182af0db1dc3121f5e29/Screenshot%20(29).png)  
 
 ### 📊 Credit Card Transaction Report  
-![Transaction Report](path/to/transaction_report.png)  
+![Transaction Report](https://github.com/ganga-pandey/power-bi-_Project/blob/7c0c8a046924a0444ad7c8171d23a9016f76586e/Screenshot%20(30).png)  
 
